@@ -15,7 +15,7 @@ Please read through this
 
 
 # Instructors  
-2. [Dr. Khemraj Shukla, Division of Applied Mathematics, Brown University](https://scholar.google.com/citations?user=XMWXf8sAAAAJ&hl=en&oi=ao)
+1. [Dr. Khemraj Shukla, Division of Applied Mathematics, Brown University](https://scholar.google.com/citations?user=XMWXf8sAAAAJ&hl=en&oi=ao)
 
 Dr. Khemraj Shukla: Friday: 3.00 PM - 5.30 PM  
 Room No: 308    
