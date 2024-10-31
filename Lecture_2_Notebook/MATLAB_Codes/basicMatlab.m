@@ -22,7 +22,7 @@ x = 5;
 fprintf('The value of x is: %5.8f\n', x);
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%% Array and Matrices%%%%%%
+%%%%%%Cell Struct and Tables%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 B = [true, false, true]; % A logical array
 C = {1, 'text', [1, 2, 3]}; % A cell array can handle multiple data array
