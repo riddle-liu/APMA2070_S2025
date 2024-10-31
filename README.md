@@ -61,45 +61,45 @@ Providence RI 02906
 
 ## Module I: Basics 
 
-**Lecture 1 : Introduction** [Slides: (Jan 29,2024)](https://www.dropbox.com/scl/fi/rzyza1r7folp7rkcwo9hg/Lecture_01_Introduction.pptx?rlkey=hu5um9r6pmpyeo0i0ej863u1h&dl=0)  
-[Homework\_L1](Homeworks/HW\_L1.pdf) Due Date: 2/15/2024, 11:59 PM ET
+**Lecture 1 : Introduction** [Slides: (Jan 27,2025)](https://www.dropbox.com/scl/fi/rzyza1r7folp7rkcwo9hg/Lecture_01_Introduction.pptx?rlkey=hu5um9r6pmpyeo0i0ej863u1h&dl=0)  
+[Homework\_L1](Homeworks/HW\_L1.pdf) Due Date: 2/15/2025, 11:59 PM ET
 
 
-**Lecture 2 : A primer on Python, NumPy, SciPy and jupyter notebooks** [Slides: (Jan 29, 2024)](https://www.dropbox.com/scl/fi/yj0sl2eoj9kscubfdr2qn/Lecture_02_Primer_Python_Final.pptx?rlkey=r2celqflu6pcklx17pdul4zyc&dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA_2070_ENGN_2912_SPRING_2024/blob/main/Lecture_2_Notebook/python_primer.ipynb)  
-[Homework\_L2](Homeworks/HW\_L2.pdf) Due Date: 2/21/2024, 11:59 PM ET
+**Lecture 2 : A primer on Python, NumPy, SciPy, jupyter notebooks and MATLAB** [Slides: (Feb 3, 2025)](https://www.dropbox.com/scl/fi/yj0sl2eoj9kscubfdr2qn/Lecture_02_Primer_Python_Final.pptx?rlkey=r2celqflu6pcklx17pdul4zyc&dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA_2070_ENGN_2912_SPRING_2024/blob/main/Lecture_2_Notebook/python_primer.ipynb)  
+[Homework\_L2](Homeworks/HW\_L2.pdf) Due Date: 2/21/2025, 11:59 PM ET
 
-**Lecture 3: Deep Learning Networks** [Slides: (Feb 5, Feb 12, 2024)](https://www.dropbox.com/scl/fi/1bpqfspvwwwh8gf6jddms/Lecture_03_Deep_Neural_Networks.pptx?rlkey=1sxh6oz5490pplx73jqy8bb0c&dl=0) [Jupyter Notebook](Lecture_3_Notebook/lec_03.ipynb)  
-[Homework\_L3](Homeworks/HW\_L3.pdf) Due Date: 3/12/2024, 11:59 PM ET
-
-
-**Lecture 4: A primer on TensorFlow, PyTorch and JAX** [Slides: (Feb 12, March 4, 2024)](https://www.dropbox.com/scl/fi/w8jtco6f93jrx9vzuf7rt/Lecture_04_Primer_PyT_TF_JAX.pptx?rlkey=98lpne3xcl7w5o6xkinahvhnw&dl=0) [Jupyter\_Notebook](Lecture_4_Notebook/1-pytorch.ipynb)  
-[Homework\_L4](Homeworks/HW\_L4.pdf) Due Date: 04/2/2024, 11:59 PM ET
+**Lecture 3: Deep Learning Networks** [Slides: (Feb 10, 2025)](https://www.dropbox.com/scl/fi/1bpqfspvwwwh8gf6jddms/Lecture_03_Deep_Neural_Networks.pptx?rlkey=1sxh6oz5490pplx73jqy8bb0c&dl=0) [Jupyter Notebook](Lecture_3_Notebook/lec_03.ipynb)  
+[Homework\_L3](Homeworks/HW\_L3.pdf) Due Date: 3/12/2025, 11:59 PM ET
 
 
-**Lecture 5: Training and Optimization** [Slides: (Feb 26, 2024)](https://www.dropbox.com/scl/fi/lqwo41jufrvzyxut8xxeu/Lecture_05_Training_and_Optimization.pptx?rlkey=s2qndvzztvx4hk9d6a8s35gn4&dl=0) [Jupyter\_Notebook](Lecture_5_Notebook/optimizer_00.ipynb)  
-[Homework\_L5](Homeworks/HW\_L5.pdf) [STARTING\_CODE](Homeworks/HW\_5\_CODE)  Due Date: 4/16/2024, 11:59 PM ET>
+**Lecture 4: A primer on TensorFlow, PyTorch, JAX and MATLAB** [Slides: (Feb 17, 2024)](https://www.dropbox.com/scl/fi/w8jtco6f93jrx9vzuf7rt/Lecture_04_Primer_PyT_TF_JAX.pptx?rlkey=98lpne3xcl7w5o6xkinahvhnw&dl=0) [Jupyter\_Notebook](Lecture_4_Notebook/1-pytorch.ipynb)  
+[Homework\_L4](Homeworks/HW\_L4.pdf) Due Date: 04/2/2025, 11:59 PM ET
 
 
-**Lecture 6: Neural Network Architectures** [Slides: (March 1, 2024)](https://www.dropbox.com/scl/fi/68nlavp3hox2z1bjtlu64/Lecture_06_NN_Architectures.pptx?rlkey=sfp31tv9yhl339cdbfptbu3ge&dl=0) [Narrated Lecture: (March 1, 2024)](https://www.dropbox.com/scl/fi/oi5p0dhs8s7qci234rpfp/Lecture-1.6-NN-Architectures.pptx?rlkey=so1n57mqauj09ofi2fikyh7f8&dl=0) [Jupyter\_Notebook](Lecture_6_Notebook/nn_architectures.ipynb)  
+**Lecture 5: Training and Optimization** [Slides: (Feb 24, 2025)](https://www.dropbox.com/scl/fi/lqwo41jufrvzyxut8xxeu/Lecture_05_Training_and_Optimization.pptx?rlkey=s2qndvzztvx4hk9d6a8s35gn4&dl=0) [Jupyter\_Notebook](Lecture_5_Notebook/optimizer_00.ipynb)  
+[Homework\_L5](Homeworks/HW\_L5.pdf) [STARTING\_CODE](Homeworks/HW\_5\_CODE)  Due Date: 4/16/2025, 11:59 PM ET>
+
+
+**Lecture 6: Neural Network Architectures** [Slides: (March 3, 2024)](https://www.dropbox.com/scl/fi/68nlavp3hox2z1bjtlu64/Lecture_06_NN_Architectures.pptx?rlkey=sfp31tv9yhl339cdbfptbu3ge&dl=0) [Narrated Lecture: (March 1, 2024)](https://www.dropbox.com/scl/fi/oi5p0dhs8s7qci234rpfp/Lecture-1.6-NN-Architectures.pptx?rlkey=so1n57mqauj09ofi2fikyh7f8&dl=0) [Jupyter\_Notebook](Lecture_6_Notebook/nn_architectures.ipynb)  
 [Homework\_L6](Homeworks/HW\_L6.pdf) Due Date: 4/19/2024, 11:59 PM ET
 [end\_of\_semester\_FUN\_homework](Homeworks/end\_of\_semester\_FUN\_homework.pdf) Due Date: 5/10/2024
 
 
 ## Module II: Neural Differential Equations
 
-**Lecture 7a: Discovering Differential Equations** [Slides: (March 4, March 11, 2024)](https://www.dropbox.com/scl/fi/k93lf0wumyctjr4o3fz4l/Lecture-2.1a-Dynamical-systems.pptx?rlkey=9bsvnwg8aw6y1iyudj0wzwtg0&dl=0) [Jupyter\_Notebook](Lecture_7a_Notebook/dynSys.ipynb)  
+**Lecture 7a: Discovering Differential Equations** [Slides: (March 10, March 11, 2024)](https://www.dropbox.com/scl/fi/k93lf0wumyctjr4o3fz4l/Lecture-2.1a-Dynamical-systems.pptx?rlkey=9bsvnwg8aw6y1iyudj0wzwtg0&dl=0) [Jupyter\_Notebook](Lecture_7a_Notebook/dynSys.ipynb)  
 
 
-**Lecture 7b: Distillation of Neural Networks** [Slides: (April 8, 2024)](https://www.dropbox.com/scl/fi/aunrr94qfgjbfqnks3p2b/Lecture-7b-Distillation-of-Neural_Networks.pptx?rlkey=c3hx2czgjcdh1vusoqrnkl7ep&dl=0) [Jupyter\_Notebook](Lecture_7b_Notebook/pysr.ipynb)  
-
-
-
-
-**Lecture 8: Physics-Informed Neural Networks (PINNs)- Part I** [Slides: (March 11, 2024)](https://www.dropbox.com/scl/fi/iuohff4j3r4nffrvj69cg/Lecture-2.2-pinns-I.pptx?rlkey=hw24bbkn6l52tc1w7snnojmy3&dl=0) [Jupyter\_Notebook](Lecture_8_Notebook/pinns.ipynb)  
+**Lecture 7b: Distillation of Neural Networks** [Slides: (March 17, 2024)](https://www.dropbox.com/scl/fi/aunrr94qfgjbfqnks3p2b/Lecture-7b-Distillation-of-Neural_Networks.pptx?rlkey=c3hx2czgjcdh1vusoqrnkl7ep&dl=0) [Jupyter\_Notebook](Lecture_7b_Notebook/pysr.ipynb)  
 
 
 
-**Lecture 9: Physics-Informed Neural Networks (PINNs)- Part II** [Slides: (April 1, 2024)](https://www.dropbox.com/scl/fi/61cabi0hebfl0ol5jm4tf/Lecture-9-pinns-II.pptx?rlkey=6nr76u7kwcqmnv2ydueuqao8j&dl=0) 
+
+**Lecture 8: Physics-Informed Neural Networks (PINNs)- Part I** [Slides: (March 24, 2024)](https://www.dropbox.com/scl/fi/iuohff4j3r4nffrvj69cg/Lecture-2.2-pinns-I.pptx?rlkey=hw24bbkn6l52tc1w7snnojmy3&dl=0) [Jupyter\_Notebook](Lecture_8_Notebook/pinns.ipynb)  
+
+
+
+**Lecture 9: Physics-Informed Neural Networks (PINNs)- Part II** [Slides: (March 31, 2024)](https://www.dropbox.com/scl/fi/61cabi0hebfl0ol5jm4tf/Lecture-9-pinns-II.pptx?rlkey=6nr76u7kwcqmnv2ydueuqao8j&dl=0) 
 
 
 ## Module III: Neural Operators
