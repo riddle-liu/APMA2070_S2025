@@ -68,7 +68,7 @@ Providence RI 02906
 **Lecture 2 : A primer on Python, NumPy, SciPy, jupyter notebooks and MATLAB** [Slides: (Feb 3, 2025)](https://www.dropbox.com/scl/fi/xafih1gn97ggfdao1nt6c/Lecture_02_Primer_Python_Final.pptx?rlkey=ms1j3gkiu14vmx8re6zzckvq0&st=eu0m6oez&dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA_2070_ENGN_2912_SPRING_2024/blob/main/Lecture_2_Notebook/Python_Codes)[MATLAB_Codes](https://github.com/raj-brown/APMA_2070_ENGN_2912_SPRING_2024/blob/main/Lecture\_2_Notebook/MATLAB_Codes)  
 [Homework\_L2](Homeworks/HW\_L2.pdf) Due Date: 2/21/2025, 11:59 PM ET
 
-**Lecture 3: Deep Learning Networks** [Slides: (Feb 10, 2025)](https://www.dropbox.com/scl/fi/1bpqfspvwwwh8gf6jddms/Lecture_03_Deep_Neural_Networks.pptx?rlkey=1sxh6oz5490pplx73jqy8bb0c&dl=0) [Jupyter Notebook](Lecture_3_Notebook/lec_03.ipynb)  
+**Lecture 3: Deep Learning Networks** [Slides: (Feb 10, 2025)](https://www.dropbox.com/scl/fi/3bph2sv53jrnbzi95ebh8/Lecture_03_Deep_Neural_Networks.pptx?rlkey=d93sa6ed4guc15etku2pjirfb&st=owtywjz1&dl=0) [Jupyter Notebook](Lecture_3_Notebook/Python_Codes)[MATLAB_Codes](Lecture_3_Notebook/MATLAB_Codes)  
 [Homework\_L3](Homeworks/HW\_L3.pdf) Due Date: 3/12/2025, 11:59 PM ET
 
 
@@ -95,7 +95,7 @@ Providence RI 02906
 
 
 
-**Lecture 8: Physics-Informed Neural Networks (PINNs)- Part I** [Slides: (March 24, 2024)](https://www.dropbox.com/scl/fi/iuohff4j3r4nffrvj69cg/Lecture-2.2-pinns-I.pptx?rlkey=hw24bbkn6l52tc1w7snnojmy3&dl=0) [Jupyter\_Notebook](Lecture_8_Notebook/pinns.ipynb)  
+**Lecture 8: Physics-Informed Neural Networks (PINNs)- Part I** [Slides: (March 24, 2024)](https://www.dropbox.com/scl/fi/0596ep5z4zk67nkch3uxf/Lecture-8-pinns-I.pptx?rlkey=lo7xh0ass7wf0wd9acn5jny73&st=qzg9docw&dl=0)[Jupyter\_Notebook](Lecture_8_Notebook/Python_Codes)[MATLAB\_Codes](Lecture_8_Notebook/MATLAB_Codes)  
 
 
 
