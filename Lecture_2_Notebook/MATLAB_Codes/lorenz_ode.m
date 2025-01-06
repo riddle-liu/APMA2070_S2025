@@ -11,7 +11,7 @@ function lorenz_ode
     tspan = [0 25]; % From t=0 to t=25
     
     % Solve the ODE
-    [t, Y] = ode45(@(t, Y) rhs(t, Y, sigma, rho, beta)...
+    [~, Y] = ode45(@(t, Y) rhs(t, Y, sigma, rho, beta)...
         , tspan, initial_conditions);
     
     % Plotting the results
