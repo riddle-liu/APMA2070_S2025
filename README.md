@@ -15,7 +15,7 @@ Please read through this
 
 
 # Instructors  
-1. [Dr. Khemraj Shukla, Division of Applied Mathematics, Brown University](https://scholar.google.com/citations?user=XMWXf8sAAAAJ&hl=en&oi=ao)
+[Dr. Khemraj Shukla, Division of Applied Mathematics, Brown University](https://scholar.google.com/citations?user=XMWXf8sAAAAJ&hl=en&oi=ao)
 
 Dr. Khemraj Shukla: Friday: 3.00 PM - 5.30 PM  
 Room No: 308    
@@ -68,6 +68,7 @@ Providence RI 02906
 **Lecture 2 : A primer on Python, NumPy, SciPy, jupyter notebooks and MATLAB** [Slides: (Feb 3, 2025)](https://www.dropbox.com/scl/fi/xafih1gn97ggfdao1nt6c/Lecture_02_Primer_Python_Final.pptx?rlkey=ms1j3gkiu14vmx8re6zzckvq0&st=eu0m6oez&dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA_2070_ENGN_2912_SPRING_2024/blob/main/Lecture_2_Notebook/Python_Codes)[MATLAB_Codes](https://github.com/raj-brown/APMA_2070_ENGN_2912_SPRING_2024/blob/main/Lecture\_2_Notebook/MATLAB_Codes)  
 [Homework\_L2](Homeworks/HW\_L2.pdf) Due Date: 2/21/2025, 11:59 PM ET
 
+<!--
 **Lecture 3: Deep Learning Networks** [Slides: (Feb 10, 2025)](https://www.dropbox.com/scl/fi/3bph2sv53jrnbzi95ebh8/Lecture_03_Deep_Neural_Networks.pptx?rlkey=d93sa6ed4guc15etku2pjirfb&st=owtywjz1&dl=0) [Jupyter Notebook](Lecture_3_Notebook/Python_Codes)[MATLAB_Codes](Lecture_3_Notebook/MATLAB_Codes)  
 [Homework\_L3](Homeworks/HW\_L3.pdf) Due Date: 3/12/2025, 11:59 PM ET
 
@@ -167,3 +168,4 @@ Providence RI 02906
    * Inverse Problem on Modulus Identification of Hyperelastic Material: [Project Files](https://www.dropbox.com/sh/gzc7r9uokhf6qvp/AAAdcufJ9ktcJr-CYMWYPwUma?dl=0)
    * Characterizing surface breaking crack using ultrasound data and PINNs: [Project Files](https://www.dropbox.com/sh/rykynd704ulgng8/AABOHqZDwrILL7HvNhaC6mITa?dl=0)
 
+-->

@@ -56,8 +56,7 @@ while iteration < numIter && ~monitor.Stop
     % Evaluate network and compute loss and gradients
     [loss,gradients] = dlfeval(@modelLoss,timesteps,X,neuralOdeParameters,targets);
     % Update network
-    [neuralOdeParameters,averageGrad,averageSqGrad] = 
-    adamupdate(neuralOdeParameters,gradients,averageGrad,averageSqGrad,iteration,...
+    [neuralOdeParameters,averageGrad,averageSqGrad] = adamupdate(neuralOdeParameters,gradients,averageGrad,averageSqGrad,iteration,...
         learnRate,gradDecay,sqGradDecay);
     recordMetrics(monitor,iteration,Loss=loss);
     % Plot predicted vs. real dynamics
