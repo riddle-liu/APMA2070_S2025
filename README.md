@@ -68,10 +68,10 @@ Providence RI 02906
 **Lecture 2 : A primer on Python, NumPy, SciPy, jupyter notebooks and MATLAB** [Slides: (Feb 3, 2025)](https://www.dropbox.com/scl/fi/xafih1gn97ggfdao1nt6c/Lecture_02_Primer_Python_Final.pptx?rlkey=ms1j3gkiu14vmx8re6zzckvq0&st=8mtthpiz&dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA_2070_ENGN_2912_SPRING_2024/blob/main/Lecture_2_Notebook/Python_Codes) [MATLAB_Codes](https://github.com/raj-brown/APMA_2070_ENGN_2912_SPRING_2024/blob/main/Lecture\_2_Notebook/MATLAB_Codes)  
 [Homework\_L2](Homeworks/HW\_L2.pdf) Due Date: 2/21/2025, 11:59 PM ET
 
-<!--
-**Lecture 3: Deep Learning Networks** [Slides: (Feb 10, 2025)](https://www.dropbox.com/scl/fi/3bph2sv53jrnbzi95ebh8/Lecture_03_Deep_Neural_Networks.pptx?rlkey=d93sa6ed4guc15etku2pjirfb&st=owtywjz1&dl=0) [Jupyter Notebook](Lecture_3_Notebook/Python_Codes)[MATLAB_Codes](Lecture_3_Notebook/MATLAB_Codes)  
-[Homework\_L3](Homeworks/HW\_L3.pdf) Due Date: 3/12/2025, 11:59 PM ET
 
+**Lecture 3: Deep Learning Networks** [Slides: (Feb 10, 2025)](https://www.dropbox.com/scl/fi/3bph2sv53jrnbzi95ebh8/Lecture_03_Deep_Neural_Networks.pptx?rlkey=d93sa6ed4guc15etku2pjirfb&dl=0) [Jupyter Notebook](Lecture_3_Notebook/Python_Codes)[MATLAB_Codes](Lecture_3_Notebook/MATLAB_Codes)
+<!--
+[Homework\_L3](Homeworks/HW\_L3.pdf) Due Date: 3/12/2025, 11:59 PM ET
 
 **Lecture 4: A primer on TensorFlow, PyTorch, JAX and MATLAB** [Slides: (Feb 17, 2024)](https://www.dropbox.com/scl/fi/w8jtco6f93jrx9vzuf7rt/Lecture_04_Primer_PyT_TF_JAX.pptx?rlkey=98lpne3xcl7w5o6xkinahvhnw&dl=0) [Jupyter\_Notebook](Lecture_4_Notebook/1-pytorch.ipynb)  
 [Homework\_L4](Homeworks/HW\_L4.pdf) Due Date: 04/2/2025, 11:59 PM ET
