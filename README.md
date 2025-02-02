@@ -69,7 +69,7 @@ Providence RI 02906
 [Homework\_L2](Homeworks/HW\_L2.pdf) Due Date: 2/21/2025, 11:59 PM ET
 
 
-**Lecture 3: Deep Learning Networks** [Slides: (Feb 10, 2025)](https://www.dropbox.com/scl/fi/3bph2sv53jrnbzi95ebh8/Lecture_03_Deep_Neural_Networks.pptx?rlkey=d93sa6ed4guc15etku2pjirfb&dl=0) [Jupyter Notebook](Lecture_3_Notebook/Python_Codes)[MATLAB_Codes](Lecture_3_Notebook/MATLAB_Codes)
+**Lecture 3: Deep Learning Networks** [Slides: (Feb 3, Feb 10, 2025)](https://www.dropbox.com/scl/fi/3bph2sv53jrnbzi95ebh8/Lecture_03_Deep_Neural_Networks.pptx?rlkey=d93sa6ed4guc15etku2pjirfb&dl=0) [Jupyter Notebook](Lecture_3_Notebook/Python_Codes)[MATLAB_Codes](Lecture_3_Notebook/MATLAB_Codes)
 <!--
 [Homework\_L3](Homeworks/HW\_L3.pdf) Due Date: 3/12/2025, 11:59 PM ET
 
