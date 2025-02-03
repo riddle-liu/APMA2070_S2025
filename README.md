@@ -62,7 +62,7 @@ Providence RI 02906
 ## Module I: Basics 
 
 **Lecture 1 : Introduction** [Slides: (Jan 27,2025)](https://www.dropbox.com/scl/fi/zjc8fx44mb6z78a67kiw8/Lecture_01_Introduction.pptx?rlkey=b8kkgall360i9taaide0jbf6z&st=hd5pjyzb&dl=0)  
-[Homework\_L1](Homeworks/HW\_L1.pdf) Due Date: 2/15/2025, 11:59 PM ET
+[Homework\_L1](Homeworks/HW\_L1.pdf) Due Date: 2/10/2025, 11:59 PM ET
 
 
 **Lecture 2 : A primer on Python, NumPy, SciPy, jupyter notebooks and MATLAB** [Slides: (Feb 3, 2025)](https://www.dropbox.com/scl/fi/xafih1gn97ggfdao1nt6c/Lecture_02_Primer_Python_Final.pptx?rlkey=ms1j3gkiu14vmx8re6zzckvq0&st=8mtthpiz&dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA_2070_ENGN_2912_SPRING_2024/blob/main/Lecture_2_Notebook/Python_Codes) [MATLAB_Codes](https://github.com/raj-brown/APMA_2070_ENGN_2912_SPRING_2024/blob/main/Lecture\_2_Notebook/MATLAB_Codes)  
