@@ -52,7 +52,7 @@ Email: <aniruddha_bora@brown.edu>
 
 
 ## Office Hours
-Every Friday: 2:30 PM - 5.00 PM   
+Every Friday: 3:00 PM - 5.30 PM   
 Room No: 118  
 1st Floor, Division of Applied Mathematics   
 170 Hope St   
