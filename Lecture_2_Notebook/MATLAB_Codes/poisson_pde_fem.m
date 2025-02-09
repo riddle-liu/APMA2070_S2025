@@ -1,6 +1,8 @@
 function poisson_pde_fem
     model = createpde();
+    % Model stores geometry, mesh, boundary conditions, and solution of the PDE
     geometryFromEdges(model,@lshapeg);
+    % geometry of an L-shaped domain to the PDE model using edge representation
     pdegplot(model,"EdgeLabels","on")
     ylim([-1.1,1.1])
     axis equal
