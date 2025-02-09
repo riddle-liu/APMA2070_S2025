@@ -1,3 +1,5 @@
+
+
 # APMA-2070: Deep Learning for Scientistis and Engineers: Spring 2025
 
 The main objective of this course is to teach concepts and implementation of deep learning techniques for scientific and engineering problems to first year graduate students. This course entails various methods, including theory and implementation of deep leaning techniques to solve a broad range of computational problems frequently encountered in solid mechanics, fluid mechanics, non destructive evaluation of materials, systems biology, chemistry, and non-linear dynamics.
@@ -65,11 +67,11 @@ Providence RI 02906
 [Homework\_L1](Homeworks/HW\_L1.pdf) Due Date: 2/10/2025, 11:59 PM ET
 
 
-**Lecture 2 : A primer on Python, NumPy, SciPy, jupyter notebooks and MATLAB** [Slides: (Feb 3, 2025)](https://www.dropbox.com/scl/fi/xafih1gn97ggfdao1nt6c/Lecture_02_Primer_Python_Final.pptx?rlkey=ms1j3gkiu14vmx8re6zzckvq0&st=8mtthpiz&dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA_2070_ENGN_2912_SPRING_2024/blob/main/Lecture_2_Notebook/Python_Codes) [MATLAB_Codes](https://github.com/raj-brown/APMA_2070_ENGN_2912_SPRING_2024/blob/main/Lecture\_2_Notebook/MATLAB_Codes)  
+**Lecture 2 : A primer on Python, NumPy, SciPy, jupyter notebooks and MATLAB** [Slides: (Feb 3, 2025)](https://www.dropbox.com/scl/fi/xafih1gn97ggfdao1nt6c/Lecture_02_Primer_Python_Final.pptx?rlkey=ms1j3gkiu14vmx8re6zzckvq0&st=8mtthpiz&dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA2070_S2025/blob/main/Lecture_2_Notebook/Python_Codes/python_primer.ipynb) [MATLAB_Codes](https://github.com/raj-brown/APMA2070_S2025/blob/main/Lecture_2_Notebook/MATLAB_Codes/poisson_pde_fem.m)  
 [Homework\_L2](Homeworks/HW\_L2.pdf) Due Date: 2/21/2025, 11:59 PM ET
 
 
-**Lecture 3: Deep Learning Networks** [Slides: (Feb 3, Feb 10, 2025)](https://www.dropbox.com/scl/fi/3bph2sv53jrnbzi95ebh8/Lecture_03_Deep_Neural_Networks.pptx?rlkey=d93sa6ed4guc15etku2pjirfb&dl=0) [Jupyter Notebook](Lecture_3_Notebook/Python_Codes/lec_03.ipynb) [MATLAB_Codes](Lecture_3_Notebook/MATLAB_Codes/driver.m)
+**Lecture 3: Deep Learning Networks** [Slides: (Feb 3, Feb 10, 2025)](https://www.dropbox.com/scl/fi/3bph2sv53jrnbzi95ebh8/Lecture_03_Deep_Neural_Networks.pptx?rlkey=d93sa6ed4guc15etku2pjirfb&dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA2070_S2025/blob/main/Lecture_3_Notebook/Python_Code/lec_03.ipynb) [MATLAB_Codes](https://github.com/raj-brown/APMA2070_S2025/blob/main/Lecture_3_Notebook/MATLAB_CODES/driver.m)
 <!--
 [Homework\_L3](Homeworks/HW\_L3.pdf) Due Date: 3/12/2025, 11:59 PM ET
 -->
