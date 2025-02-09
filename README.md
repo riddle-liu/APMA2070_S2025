@@ -72,8 +72,9 @@ Providence RI 02906
 **Lecture 3: Deep Learning Networks** [Slides: (Feb 3, Feb 10, 2025)](https://www.dropbox.com/scl/fi/3bph2sv53jrnbzi95ebh8/Lecture_03_Deep_Neural_Networks.pptx?rlkey=d93sa6ed4guc15etku2pjirfb&dl=0) [Jupyter Notebook](Lecture_3_Notebook/Python_Codes)[MATLAB_Codes](Lecture_3_Notebook/MATLAB_Codes)
 <!--
 [Homework\_L3](Homeworks/HW\_L3.pdf) Due Date: 3/12/2025, 11:59 PM ET
-
-**Lecture 4: A primer on TensorFlow, PyTorch, JAX and MATLAB** [Slides: (Feb 17, 2024)](https://www.dropbox.com/scl/fi/w8jtco6f93jrx9vzuf7rt/Lecture_04_Primer_PyT_TF_JAX.pptx?rlkey=98lpne3xcl7w5o6xkinahvhnw&dl=0) [Jupyter\_Notebook](Lecture_4_Notebook/1-pytorch.ipynb)  
+-->
+**Lecture 4: A primer on TensorFlow, PyTorch, JAX and MATLAB** [Slides: (Feb 10, Feb 17, 2025)](https://www.dropbox.com/scl/fi/wq22gbfblu10e9kfgyxm2/Lecture_04_Primer_PyT_TF_JAX.pptx?rlkey=l4egneb7gw82m5x76378jhax3&st=edoxqb9o&dl=0) [Jupyter\_Notebook](Lecture_4_Notebook/1-pytorch.ipynb)  
+<!--
 [Homework\_L4](Homeworks/HW\_L4.pdf) Due Date: 04/2/2025, 11:59 PM ET
 
 
