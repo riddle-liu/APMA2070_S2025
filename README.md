@@ -75,7 +75,7 @@ Providence RI 02906
 <!--
 [Homework\_L3](Homeworks/HW\_L3.pdf) Due Date: 3/12/2025, 11:59 PM ET
 -->
-**Lecture 4: A primer on TensorFlow, PyTorch, JAX and MATLAB** [Slides: (Feb 10, Feb 17, 2025)](https://www.dropbox.com/scl/fi/wq22gbfblu10e9kfgyxm2/Lecture_04_Primer_PyT_TF_JAX.pptx?rlkey=l4egneb7gw82m5x76378jhax3&st=edoxqb9o&dl=0) [Jupyter\_Notebook](Lecture_4_Notebook/Python_Codes/1-pytorch.ipynb)  
+**Lecture 4: A primer on TensorFlow, PyTorch, JAX and MATLAB** [Slides: (Feb 10, Feb 17, 2025)](https://www.dropbox.com/scl/fi/wq22gbfblu10e9kfgyxm2/Lecture_04_Primer_PyT_TF_JAX.pptx?rlkey=l4egneb7gw82m5x76378jhax3&st=edoxqb9o&dl=0) [Jupyter\_Notebook](Lecture_4_Notebook/Python_Codes/1-pytorch.ipynb) [MATLAB_Codes](Lecture_4_Notebook/MATLAB_Codes/matlabDLbasic.m)  
 <!--
 [Homework\_L4](Homeworks/HW\_L4.pdf) Due Date: 04/2/2025, 11:59 PM ET
 
