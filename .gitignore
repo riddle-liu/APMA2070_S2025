@@ -1,7 +1,6 @@
 **/*.pyc
 **/*.npz
 **/*.eps
-**/*.pdf
 **/*.png
 /Lecture_5_Notebook/
 /Lecture_6_Notebook/
