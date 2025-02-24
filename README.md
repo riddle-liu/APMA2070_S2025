@@ -125,9 +125,9 @@ Providence RI 02906
 
 ## Template for Project Presentation
 
+-->
+
 [Example for Project Presntation](Example_Project_PPT/example_ppt_final_project.pdf)
-
-
 
 [Project list](Project_list.pdf)
 
@@ -143,9 +143,8 @@ Providence RI 02906
 2. **Dynamical Systems**
    * Charged particle in a electromagnetic field: [Project Files](https://www.dropbox.com/sh/dktv3s13hu5lop4/AAAFgsb50_Ks0zxELoC3_7Hua?dl=0)
    * Learning dynamical systems from data: [Project Files](https://www.dropbox.com/sh/1ivo7t8uujh9zej/AADAEeF6SBeYQLt22cBF0ITXa?dl=0)
-   * Stiff ODE systems: [Project Files](https://www.dropbox.com/sh/cenqy1pqiaah9yi/AABjM5fR52SXsFuFpfjT4pvpa?dl=0)
 
-3. **Engines**
+3. **Engine Dynamics**
    * Learning engine parameters: [Project Files](https://www.dropbox.com/sh/83xcrd7ossiog7r/AAAKHISuKugG91CB7OOVSsnxa?dl=0)
 
 4. **Fluid Mechanics**
@@ -170,4 +169,3 @@ Providence RI 02906
    * Inverse Problem on Modulus Identification of Hyperelastic Material: [Project Files](https://www.dropbox.com/sh/gzc7r9uokhf6qvp/AAAdcufJ9ktcJr-CYMWYPwUma?dl=0)
    * Characterizing surface breaking crack using ultrasound data and PINNs: [Project Files](https://www.dropbox.com/sh/rykynd704ulgng8/AABOHqZDwrILL7HvNhaC6mITa?dl=0)
 
--->
