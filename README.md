@@ -68,7 +68,7 @@ Providence RI 02906
 
 
 **Lecture 2 : A primer on Python, NumPy, SciPy, jupyter notebooks and MATLAB** [Slides: (Feb 3, 2025)](https://www.dropbox.com/scl/fi/xafih1gn97ggfdao1nt6c/Lecture_02_Primer_Python_Final.pptx?rlkey=ms1j3gkiu14vmx8re6zzckvq0&st=8mtthpiz&dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA2070_S2025/blob/main/Lecture_2_Notebook/Python_Codes/python_primer.ipynb) [MATLAB_Codes](https://github.com/raj-brown/APMA2070_S2025/blob/main/Lecture_2_Notebook/MATLAB_Codes/poisson_pde_fem.m)  
-[Homework\_L2](Homeworks/HW\_L2.pdf) Due Date: 2/21/2025, 11:59 PM ET
+[Homework\_L2](Homeworks/HW\_L2.pdf) Due Date: 2/24/2025, 11:59 PM ET
 
 
 **Lecture 3: Deep Learning Networks** [Slides: (Feb 3, Feb 10, 2025)](https://www.dropbox.com/scl/fi/3bph2sv53jrnbzi95ebh8/Lecture_03_Deep_Neural_Networks.pptx?rlkey=d93sa6ed4guc15etku2pjirfb&dl=0) [Jupyter Notebook](https://github.com/raj-brown/APMA2070_S2025/blob/main/Lecture_3_Notebook/Python_Code/lec_03.ipynb) [MATLAB_Codes](https://github.com/raj-brown/APMA2070_S2025/blob/main/Lecture_3_Notebook/MATLAB_CODES/driver.m)
