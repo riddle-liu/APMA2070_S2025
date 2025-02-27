@@ -75,10 +75,9 @@ Providence RI 02906
 [Homework\_L3](Homeworks/HW\_L3.pdf) Due Date: 3/10/2025, 11:59 PM ET
 
 **Lecture 4: A primer on TensorFlow, PyTorch, JAX and MATLAB** [Slides: (Feb 24, 2025)](https://www.dropbox.com/scl/fi/wq22gbfblu10e9kfgyxm2/Lecture_04_Primer_PyT_TF_JAX.pptx?rlkey=l4egneb7gw82m5x76378jhax3&st=edoxqb9o&dl=0) [Jupyter\_Notebook](Lecture_4_Notebook/Python_Codes/1-pytorch.ipynb) [MATLAB_Codes](Lecture_4_Notebook/MATLAB_Codes/matlabDLbasic.m)  
+[Homework\_L4](Homeworks/HW\_L4.pdf) Due Date: 03/24/2025, 11:59 PM ET
+
 <!--
-[Homework\_L4](Homeworks/HW\_L4.pdf) Due Date: 04/2/2025, 11:59 PM ET
-
-
 **Lecture 5: Training and Optimization** [Slides: (Feb 24, 2025)](https://www.dropbox.com/scl/fi/lqwo41jufrvzyxut8xxeu/Lecture_05_Training_and_Optimization.pptx?rlkey=s2qndvzztvx4hk9d6a8s35gn4&dl=0) [Jupyter\_Notebook](Lecture_5_Notebook/optimizer_00.ipynb)  
 [Homework\_L5](Homeworks/HW\_L5.pdf) [STARTING\_CODE](Homeworks/HW\_5\_CODE)  Due Date: 4/16/2025, 11:59 PM ET>
 
