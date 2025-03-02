@@ -77,11 +77,11 @@ Providence RI 02906
 **Lecture 4: A primer on TensorFlow, PyTorch, JAX and MATLAB** [Slides: (Feb 24, 2025)](https://www.dropbox.com/scl/fi/wq22gbfblu10e9kfgyxm2/Lecture_04_Primer_PyT_TF_JAX.pptx?rlkey=l4egneb7gw82m5x76378jhax3&st=edoxqb9o&dl=0) [Jupyter\_Notebook](Lecture_4_Notebook/Python_Codes/1-pytorch.ipynb) [MATLAB_Codes](Lecture_4_Notebook/MATLAB_Codes/matlabDLbasic.m)  
 [Homework\_L4](Homeworks/HW\_L4.pdf) Due Date: 03/24/2025, 11:59 PM ET
 
+
+**Lecture 5: Training and Optimization** [Slides: (March 3, 2025)](https://www.dropbox.com/scl/fi/ftcfkxn4htyd9j9t10vxk/Lecture_05_Training_and_Optimization.pptx?rlkey=tlvjo3m5ljtbs6pewqaeyfu83&dl=0) [Jupyter\_Notebook](Lecture_5_Notebook/optimizer_00.ipynb)  
+
 <!--
-**Lecture 5: Training and Optimization** [Slides: (Feb 24, 2025)](https://www.dropbox.com/scl/fi/lqwo41jufrvzyxut8xxeu/Lecture_05_Training_and_Optimization.pptx?rlkey=s2qndvzztvx4hk9d6a8s35gn4&dl=0) [Jupyter\_Notebook](Lecture_5_Notebook/optimizer_00.ipynb)  
 [Homework\_L5](Homeworks/HW\_L5.pdf) [STARTING\_CODE](Homeworks/HW\_5\_CODE)  Due Date: 4/16/2025, 11:59 PM ET>
-
-
 **Lecture 6: Neural Network Architectures** [Slides: (March 3, 2024)](https://www.dropbox.com/scl/fi/68nlavp3hox2z1bjtlu64/Lecture_06_NN_Architectures.pptx?rlkey=sfp31tv9yhl339cdbfptbu3ge&dl=0) [Narrated Lecture: (March 1, 2024)](https://www.dropbox.com/scl/fi/oi5p0dhs8s7qci234rpfp/Lecture-1.6-NN-Architectures.pptx?rlkey=so1n57mqauj09ofi2fikyh7f8&dl=0) [Jupyter\_Notebook](Lecture_6_Notebook/nn_architectures.ipynb)  
 [Homework\_L6](Homeworks/HW\_L6.pdf) Due Date: 4/19/2025, 11:59 PM ET
 [end\_of\_semester\_FUN\_homework](Homeworks/end\_of\_semester\_FUN\_homework.pdf) Due Date: 5/10/2024
