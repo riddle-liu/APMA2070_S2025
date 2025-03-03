@@ -78,7 +78,7 @@ Providence RI 02906
 [Homework\_L4](Homeworks/HW\_L4.pdf) Due Date: 03/24/2025, 11:59 PM ET
 
 
-**Lecture 5: Training and Optimization** [Slides: (March 3, 2025)](https://www.dropbox.com/scl/fi/ftcfkxn4htyd9j9t10vxk/Lecture_05_Training_and_Optimization.pptx?rlkey=tlvjo3m5ljtbs6pewqaeyfu83&dl=0) [Jupyter\_Notebook](Lecture_5_Notebook/optimizer_00.ipynb)  
+**Lecture 5: Training and Optimization** [Slides: (March 3, 2025)](https://www.dropbox.com/scl/fi/ftcfkxn4htyd9j9t10vxk/Lecture_05_Training_and_Optimization.pptx?rlkey=tlvjo3m5ljtbs6pewqaeyfu83&dl=0) [Jupyter\_Notebook](Lecture_5_Notebook/Python_Codes/optimizer_00.ipynb)  
 
 <!--
 [Homework\_L5](Homeworks/HW\_L5.pdf) [STARTING\_CODE](Homeworks/HW\_5\_CODE)  Due Date: 4/16/2025, 11:59 PM ET>
