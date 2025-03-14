@@ -79,9 +79,7 @@ Providence RI 02906
 
 
 **Lecture 5: Training and Optimization** [Slides: (March 3, 2025)](https://www.dropbox.com/scl/fi/ftcfkxn4htyd9j9t10vxk/Lecture_05_Training_and_Optimization.pptx?rlkey=tlvjo3m5ljtbs6pewqaeyfu83&dl=0) [Jupyter\_Notebook](Lecture_5_Notebook/Python_Codes/optimizer_00.ipynb)  
-<!--
-[Homework\_L5](Homeworks/HW\_L5.pdf) [STARTING\_CODE](Homeworks/HW\_5\_CODE)  Due Date: 4/16/2025, 11:59 PM ET>
--->
+[Homework\_L5](Homeworks/HW\_L5.pdf) [STARTING\_CODE](Homeworks/HW\_5\_CODE)  Due Date: 4/07/2025, 11:59 PM ET>
 
 **Lecture 6: Neural Network Architectures** [Slides: (March 10, 2024)](https://www.dropbox.com/scl/fi/ysrirwvzphpxj2wn101sh/Lecture_06_NN_Architectures.pptx?rlkey=qebql65ntpk3iw08qex7so4wj&st=6hgskcjx&dl=0) [Jupyter\_Notebook](Lecture_6_Notebook/nn_architectures.ipynb)  
 
