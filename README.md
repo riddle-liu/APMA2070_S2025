@@ -86,16 +86,16 @@ Providence RI 02906
 <!--
 [Homework\_L6](Homeworks/HW\_L6.pdf) Due Date: 4/19/2025, 11:59 PM ET
 [end\_of\_semester\_FUN\_homework](Homeworks/end\_of\_semester\_FUN\_homework.pdf) Due Date: 5/10/2024
-
+-->
 
 ## Module II: Neural Differential Equations
 
-**Lecture 7a: Discovering Differential Equations** [Slides: (March 10, March 11, 2024)](https://www.dropbox.com/scl/fi/k93lf0wumyctjr4o3fz4l/Lecture-2.1a-Dynamical-systems.pptx?rlkey=9bsvnwg8aw6y1iyudj0wzwtg0&dl=0) [Jupyter\_Notebook](Lecture_7a_Notebook/dynSys.ipynb)  
+**Lecture 7a: Discovering Differential Equations** [Slides: (March 17, 2024)](https://www.dropbox.com/scl/fi/p2zzsg7okayw00t8qmwqc/Lecture-7a-Dynamical-systems.pptx?rlkey=q0jns6kze63zrl32srrkiwd9q&dl=0) [Jupyter\_Notebook](Lecture_7a_Notebook/dynSys.ipynb)  
 
 
-**Lecture 7b: Distillation of Neural Networks** [Slides: (March 17, 2024)](https://www.dropbox.com/scl/fi/aunrr94qfgjbfqnks3p2b/Lecture-7b-Distillation-of-Neural_Networks.pptx?rlkey=c3hx2czgjcdh1vusoqrnkl7ep&dl=0) [Jupyter\_Notebook](Lecture_7b_Notebook/pysr.ipynb)  
+**Lecture 7b: Distillation of Neural Networks** [Slides: (March 17, 2024)](https://www.dropbox.com/scl/fi/fvtw25vvbm2b2zczejz23/Lecture-7b-Distillation-of-Neural_Networks.pptx?rlkey=s9zjfjre8y5qyx8zvlwd8fs3r&dl=0) [Jupyter\_Notebook](Lecture_7b_Notebook/pysr.ipynb)  
 
-
+<!--
 
 
 **Lecture 8: Physics-Informed Neural Networks (PINNs)- Part I** [Slides: (March 24, 2024)](https://www.dropbox.com/scl/fi/0596ep5z4zk67nkch3uxf/Lecture-8-pinns-I.pptx?rlkey=lo7xh0ass7wf0wd9acn5jny73&st=qzg9docw&dl=0)[Jupyter\_Notebook](Lecture_8_Notebook/Python_Codes)[MATLAB\_Codes](Lecture_8_Notebook/MATLAB_Codes)  
